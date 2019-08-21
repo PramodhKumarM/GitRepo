@@ -1,6 +1,6 @@
 language: python
 
-branch: dev3
+branch: master
 
 install:
   - easy_install distribute
