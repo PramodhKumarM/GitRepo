@@ -2,10 +2,5 @@ language: python
 
 branch: master
 
-install:
-  - easy_install distribute
-  - pip install requirements.txt
-  - pip install pytest
-
 script:
   - python file1.py some args
