@@ -1,4 +1,11 @@
 language: python
 
+branch: dev3
+
+install:
+  - easy_install distribute
+  - pip install requirements.txt
+  - pip install pytest
+
 script:
-  - Code1.py
+  - python file1.py some args
