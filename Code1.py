@@ -6,4 +6,3 @@ print(ls2[1])
 print(ls2[2])
 print(ls2[3][1])
 Print("Hello world")
-#This is single line comment
